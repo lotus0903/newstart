@@ -44,4 +44,4 @@ Information on how others can contribute to the tutorial.  (e.g., how to submit 
 
 ## License
 
-Specify the license under which the tutorial is released (e.g., MIT License, Apache 2.0, etc.).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
