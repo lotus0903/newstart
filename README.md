@@ -30,6 +30,14 @@ A brief introductory description of the tutorial's purpose and what it covers.  
 
 [Content for Subsection 3.1 goes here.]
 
+## Running the Hello, World! Program
+
+To run the Python program, you need to have Python installed on your system.  Then, open a terminal or command prompt, navigate to the directory where you saved `hello.py`, and run the following command:
+
+```bash
+python hello.py
+
+
 ## Contributing
 
 Information on how others can contribute to the tutorial.  (e.g., how to submit pull requests, coding style guidelines, etc.)
